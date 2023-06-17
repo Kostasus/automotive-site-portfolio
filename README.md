@@ -1,2 +1,2 @@
-# testGitHubPages
-https://kostasus.github.io/testGitHubPages/
+# Сайт по макету Automotive
+https://kostasus.github.io/automotive-site-portfolio/
